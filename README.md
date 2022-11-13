@@ -2,9 +2,12 @@
 
 Simple template to get started with react vite and tauri, note that it has typescript support also, ~~It enables the vite-plugin-tauri, to avoid ghost terminal issue~~.
 
-## why ?
+## Todo
 
-Because it's fun.
+- [ ] Add Mantine  
+- [ ] Add Eslint
+- [ ] Add Pretiter Config
+
 
 ## Requirements:
 
